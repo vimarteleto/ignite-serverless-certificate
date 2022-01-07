@@ -1,3 +1,14 @@
+# Instalação do DynamoDB:
+```bash
+serverless dynamodb install
+serverless dynamodb start
+```
+
+# Script de desenvolvimento offline:
+```bash
+yarn dev
+```
+
 # Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
